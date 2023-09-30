@@ -16,7 +16,7 @@ Hangman game is a great help in stimulating in learning foreign language particu
   1)basic version
   2)GUI version Using tkinter
 - Cross platform:Can work on any device
-## Contributors
+## Contributors are
 -  [@CodewithStuti](https://www.github.com/CodewithStuti)
 - [@Yuvrajdixit](https://www.github.com/yuvrajdixit)
 
